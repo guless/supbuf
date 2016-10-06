@@ -1,0 +1,30 @@
+{
+  "name": "supbuf",
+  "version": "1.0.0",
+  "description": "Supbuf 提供一些高级二进制数据流的操作方法，主要用于序列化和反序列化。",
+  "main": "test.js",
+  "scripts": {
+    "test": "babel-node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guless/supbuf.git"
+  },
+  "keywords": [
+    "Buffer",
+    "ByteArray",
+    "ArrayBuffer",
+    "BitStream",
+    "Stream"
+  ],
+  "author": "Samlv9@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guless/supbuf/issues"
+  },
+  "homepage": "https://github.com/guless/supbuf#readme",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
